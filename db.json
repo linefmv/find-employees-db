@@ -1,0 +1,170 @@
+{
+    "itemsFuncionarios": [
+        "Funcionário(a)",
+        "Filial",
+        "Matricula",
+        "Data de Entrada"
+    ],
+    "funcionarios": [
+        {
+            "id": 1,
+            "nome": "Logan Roy",
+            "matricula": "548452",
+            "cargo": "CEO & Founder",
+            "filial": "Porto Alegre",
+            "dataAdmissao": "25/02/2003"
+        },
+        {
+            "id": 2,
+            "nome": "Roman Roy",
+            "matricula": "A25802",
+            "cargo": "Diretor Financeiro",
+            "filial": "Porto Alegre",
+            "dataAdmissao": "15/08/2005"
+        },
+        {
+            "id": 3,
+            "nome": "Frank Vernon",
+            "matricula": "A2858",
+            "cargo": "COO",
+            "filial": "Porto Alegre",
+            "dataAdmissao": "05/07/2015"
+        },
+        {
+            "id": 4,
+            "nome": "Kendall Roy",
+            "matricula": "A6285",
+            "cargo": "Assistente executiva",
+            "filial": "Porto Alegre",
+            "dataAdmissao": "05/07/2015"
+        },
+        {
+            "id": 5,
+            "nome": "Siobhan Roy",
+            "matricula": "A6347",
+            "cargo": "Auxiliar Contábil",
+            "filial": "Blumenau",
+            "dataAdmissao": "06/10/2015"
+        },
+        {
+            "id": 6,
+            "nome": "Selton Melo Goncalves",
+            "matricula": "A8536",
+            "cargo": "Auxiliar Contábil",
+            "filial": "Curitiba",
+            "dataAdmissao": "10/08/2016"
+        },
+        {
+            "id": 7,
+            "nome": "Tom Wambsgans",
+            "matricula": "A2015",
+            "cargo": "Auxiliar Contábil",
+            "filial": "Blumenau",
+            "dataAdmissao": "10/08/2016"
+        },
+        {
+            "id": 8,
+            "nome": "Connor Roy",
+            "matricula": "A7465",
+            "cargo": "Auxiliar de serviços gerais",
+            "filial": "Curitiba",
+            "dataAdmissao": "15/09/2017"
+        },
+        {
+            "id": 9,
+            "nome": "Ewan Roy",
+            "matricula": "A0345",
+            "cargo": "Auxiliar Contábil",
+            "filial": "São Paulo",
+            "dataAdmissao": "09/02/2018"
+        },
+        {
+            "id": 10,
+            "nome": "Gregory Hirsch",
+            "matricula": "A0418",
+            "cargo": "Auxiliar Contábil",
+            "filial": "São Paulo",
+            "dataAdmissao": "09/02/2018"
+        },
+        {
+            "id": 11,
+            "nome": "Gerri Kellman",
+            "matricula": "A9625",
+            "cargo": "Entregador",
+            "filial": "São Paulo",
+            "dataAdmissao": "09/02/2018"
+        },
+        {
+            "id": 12,
+            "nome": "Shiv Rodrigues Cardoso",
+            "matricula": "A6120",
+            "cargo": "Auxiliar de serviços gerias",
+            "filial": "São Paulo",
+            "dataAdmissao": "09/02/2018"
+        },
+        {
+            "id": 13,
+            "nome": "Tom Ribeiro Dias",
+            "matricula": "A0032",
+            "cargo": "Auxiliar Contábil",
+            "filial": "Chapecó",
+            "dataAdmissao": "24/04/2015"
+        },
+        {
+            "id": 14,
+            "nome": "Miley Santos Pinto",
+            "matricula": "A5100",
+            "cargo": "Auxiliar Contábil",
+            "filial": "Fortaleza",
+            "dataAdmissao": "24/04/2018"
+        },
+        {
+            "id": 15,
+            "nome": "Paula Antonia Gomes",
+            "matricula": "AB512",
+            "cargo": "Auxiliar Contábil",
+            "filial": "Espírito Santo",
+            "dataAdmissao": "30/06/2018"
+        },
+        {
+            "id": 16,
+            "nome": "Joana Costa Sousa",
+            "matricula": "AU0323",
+            "cargo": "Auxiliar Contábil",
+            "filial": "Espírito Santo",
+            "dataAdmissao": "30/06/2018"
+        },
+        {
+            "id": 17,
+            "nome": "Andrea Barros Ribeiro",
+            "matricula": "A0954",
+            "cargo": "Auxiliar Contábil",
+            "filial": "Espírito Santo",
+            "dataAdmissao": "30/06/2018"
+        },
+        {
+            "id": 18,
+            "nome": "Paula Lima Azevedo",
+            "matricula": "A4250",
+            "cargo": "Auxiliar Contábil",
+            "filial": "Paraíba",
+            "dataAdmissao": "06/07/2018"
+        },
+        {
+            "id": 19,
+            "nome": "Igor Castro Pereira",
+            "matricula": "A2521",
+            "cargo": "Auxiliar Contábil",
+            "filial": "Paraíba",
+            "dataAdmissao": "06/07/2018"
+        },
+        {
+            "id": 20,
+            "nome": "Laís Hoch",
+            "matricula": "A6122",
+            "cargo": "Auxiliar Contábil",
+            "filial": "Paraíba",
+            "dataAdmissao": "06/07/2018"
+        }
+    ]
+}
